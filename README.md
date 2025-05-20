@@ -1,17 +1,5 @@
-This is a simple web-based weather application built using Python and the Flask web framework. The app allows users to enter the name of a city and retrieves the current weather data for that location using the OpenWeatherMap API.
-The retrieved information includes temperature (in Celsius), weather description, humidity, and wind speed.
+🌦️ Weather App
+A simple and responsive web application that displays real-time weather information for any city using the OpenWeather API. Built with HTML, CSS, and JavaScript, the app provides details like temperature, humidity, wind speed, and weather conditions. It features a clean UI and smooth user interaction. Ideal for beginners learning API integration and front-end development.
 
-Technologies Used:
-Python
-Flask
-OpenWeatherMap API
+Tech Stack: HTML | CSS | JavaScript | OpenWeather API
 
-Features:
-User-friendly web interface to enter a city name.
-Real-time weather updates fetched from the OpenWeatherMap API.
-
-Displays:
-Temperature in Celsius
-Weather conditions (e.g., cloudy, sunny)
-Humidity %
-Wind speed in kmph
